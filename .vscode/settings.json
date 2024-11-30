@@ -1,0 +1,8 @@
+{
+    "workbench.colorTheme": "OM Theme (Default Dracula Italic)",
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.fontSize": 15,
+    "editor.lineHeight": 28,  // Use um valor maior, como 28 ou 30
+    "editor.renderWhitespace": "all",
+    "terminal.integrated.fontSize": 16
+}
